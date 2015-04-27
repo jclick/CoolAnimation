@@ -1,8 +1,8 @@
 # CoolAnimation
-在http://gif.flrn.nl/page/8上看到了很多好玩的动画，然后看到https://github.com/Fichardu/CircleProgress ，这哥们做了一个，于是也做了一个
+在http://gif.flrn.nl/page/8 上看到了很多好玩的动画，然后看到https://github.com/Fichardu/CircleProgress ，这哥们做了一个，于是也做了一个
 
 #Demo
-<img src="./demo.gif" width="360">
+<img src="./demo.gif">
 
 #用法
 ```xml
